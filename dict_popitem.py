@@ -1,4 +1,4 @@
-# popitem() : popitem() method removes the last inserted item(in versions before 3.7, a random item is removed instead)
+# popitem() : popitem() method removes the last inserted item.
 car = {"brand":"aston martin",
        "model": "V8 Ventage",
        "year": 2005
